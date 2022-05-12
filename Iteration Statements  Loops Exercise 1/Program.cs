@@ -11,9 +11,86 @@ namespace Iteration_Statements__Loops_Exercise_1
 
             Console.WriteLine(i);
             } 
+
+            for (int i = 0; i < 14; i++)
+            {
+                Console.WriteLine(i);
+            }
+
+            for (int i = 0; i <14; i++)
+            {
+                Console.WriteLine(i);
+            }
+
+            for (int i = 0; i <14; i++)
+            {
+                Console.WriteLine(i);
+            }
+
+            for (int i = 0; i <14; i++)
+            {
+                Console.WriteLine(i);
+
+            }
+
+            for (int i = 0; i < 14; i++)
+            {
+                Console.WriteLine(i);
+            }
+
+            for (int i = 0; i < 14; i++)
+            {
+                Console.WriteLine(i);
+            }
+
+            for (int i = 0; i < 14; i++)
+            {
+                Console.WriteLine(i);
+            }
+
+            for (int i = 0; i < 14; i++)
+            {
+                Console.WriteLine(i);
+            }
+
+            for (int i = 0; i < 14; i++)
+            {
+                Console.WriteLine(i);
+            }
+                for (int i = 0; i < 14; i++)
+                {
+                    Console.WriteLine(i);
+                }
+
+                for (int i = 0; i < 14; i++)
+                {
+                    Console.WriteLine(i);
+                }
+
+                for (int i = 0; i < 14; i++)
+                {
+                    Console.WriteLine(i);
+                }
+
+                for (int i = 0; i < 14; i++)
+            {
+                Console.WriteLine(i);
+            }
+
+                for (int i = 0; i < 14; i++)
+            {
+                Console.WriteLine(i);
+            }
+            }
+
         }
 
 
+
+
+        
+
+
     }
-}
+
     
